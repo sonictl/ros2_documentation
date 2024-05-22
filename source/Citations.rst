@@ -31,7 +31,7 @@ If you use ROS 2 Composition in your work, please cite the 2023 IEEE RA-L paper 
     @article{doi:10.48550/arXiv.2305.09933,
         author = {Steven Macenski and Alberto Soragna and Michael Carroll and Zhenpeng Ge},
         title = {Impact of ROS 2 Node Composition in Robotic Systems},
-        journal = {IEEE Robotics and Autonomous Letters (RA-L)},
+        journal = {IEEE Robotics and Automation Letters (RA-L)},
         year = {2023},
         doi = {10.48550/arXiv.2305.09933},
         URL = {https://arxiv.org/abs/2305.09933}
